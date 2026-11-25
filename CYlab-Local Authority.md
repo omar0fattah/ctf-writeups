@@ -22,7 +22,7 @@ unauthenticated user to read them and log in as admin.
    ```
 5. Log in to `login.php` using:
    - Username: `admin`
-   - Password: `strongPassword098765`
+   - Password: `[REDACTED]`
 6. Successfully reach the admin panel at `http://xebec.cylabacademy.net:35076/admin.php`.
 
 ## Impact
