@@ -13,7 +13,7 @@ unauthenticated user to read them and log in as admin.
 4. Observe the following function in the response:
    ```js
    function checkPassword(username, password) {
-     if (username === 'admin' && password === 'strongPassword098765') {
+     if (username === 'admin' && password === '[REDACTED]') {
        return true;
      } else {
        return false;
